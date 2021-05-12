@@ -1,5 +1,5 @@
 # Pytorch-Distributed-Template
-A temple for distributed training of pytorch.
+A template for distributed training of pytorch.
 
 Training command:
 CUDA_VISIBLE_DEVICES=gpu_id python -m torch.distributed.launch --nproc_per_node=gpu_num --master_port=your_port train.py -c "./config/config.json"
