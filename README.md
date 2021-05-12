@@ -1,4 +1,4 @@
-# Pytorch-Distributed-Temple
+# Pytorch-Distributed-Template
 A temple for distributed training of pytorch.
 
 Training command:
